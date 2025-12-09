@@ -4,7 +4,7 @@
   import '../app.css';
 
   // --- PayPal / Dropdown Logic ---
-  const paypalUsername = 'YOUR_USERNAME_HERE'; // TODO: Update this later
+  const paypalUsername = 'AxelLab427'; // TODO: Update this later
   const donationAmounts = [1, 3, 5, 10];
   let isDropdownOpen = false;
 
